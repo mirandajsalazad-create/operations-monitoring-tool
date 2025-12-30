@@ -1,4 +1,4 @@
-#  Incident Reporting Tool
+#  Operations Monitoring Tool
 
 A Python-based tool that simulates an internal operations monitoring system.
 The program collects incident data, analyzes severity and downtime metrics,
